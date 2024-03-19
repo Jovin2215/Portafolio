@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+.menu {
+    background-color: rgb(0, 85, 35);
+    height: 10vh;
+}
+.bienvenidos {
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bowlby One SC", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size: 200px; 
+      }
+
+        
+.animacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.sobremi {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bowlby One SC", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size: 90px; 
+    height: 20vh;
+   
+}
+.foto{
+    height: 80;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.jovin{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+    height: 80vh;
+}
+.descripcion {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 58px; 
+    height: 80vh;
+    display: flex;
+}
+.texto1{
+    text-align: center;
+     justify-content: center;
+     align-items: center;
+     font-family: "Bowlby One SC", sans-serif;
+     font-weight: 400;
+     font-style: normal;  
+     font-size: 80px; 
+     height: 80vh;
+     display: flex;   
+}
+.portafolio {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    font-family: "Bowlby One SC", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size: 90px; 
+    height: 20vh;
+}
+.audiovisuales {
+    
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.ad1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 800px;
+}
+.ad2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 800px;
+}
+.ad3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 800px;
+}
+.web {
+    background-color: rgb(216, 28, 44);
+    height: 90vh;
+}
+.fotografia {
+    background-color: rgb(57, 138, 49);
+    height: 100vh;
+}
+.contacto {
+    background-color: rgb(112, 31, 48);
+    height: 100vh;
+}
+.facebook {
+    background-color: rgb(224, 213, 52);
+    height: 50vh;
+}
+.instagram {
+    background-color: rgb(184, 162, 162);
+    height: 50vh;
+}
+.whatsapp {
+    background-color: rgb(30, 93, 209);
+    height: 50vh;
+}
+.correo {
+    background-color: rgb(0, 255, 136);
+    height: 50vh;
+}
+  
